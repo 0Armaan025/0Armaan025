@@ -1,4 +1,5 @@
 <p align="center">
+  ![header](https://capsule-render.vercel.app/api?type=slice)
   <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Armaan%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
 
