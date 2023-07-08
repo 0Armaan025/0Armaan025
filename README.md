@@ -15,7 +15,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## Social
-![Discord](https://img.shields.io/discord/1080371971818274897)
+![Discord](https://img.shields.io/discord/1080371971818274897?link=https%3A%2F%2Fdiscord.gg%2FH4XsyBnsNH)
+
 
 ## 🔥 Streak Stats
 
