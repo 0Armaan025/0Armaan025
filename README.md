@@ -19,7 +19,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![waveColor showcase](https://user-images.githubusercontent.com/993431339338575884/223082809-14b38bbc-c600-4b62-ba74-f242dada553b.svg](https://lanyard.kyrie25.me/api/368399721494216706?imgStyle=square&imgBorderRadius=15px)
+![waveColor showcase](https://user-images.githubusercontent.com/993431339338575884/223082809-14b38bbc-c600-4b62-ba74-f242dada553b.svg)
 
 ### Profile Views
  <img
