@@ -17,6 +17,9 @@
 ## Social
 ![Discord](https://img.shields.io/discord/1080371971818274897?link=https%3A%2F%2Fdiscord.gg%2FH4XsyBnsNH)
 
+## Followers 
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
 ## 🔥 Streak Stats
 
