@@ -19,7 +19,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![gradient showcase](https://lanyard.kyrie25.me/api/993431339338575884?gradient=645CBB-A084DC-BFACE2-EBC7E6)
+ <a href="https://discord.com/users/993431339338575884" target="_blank"><img src="https://discord.c99.nl/widget/theme-3/993431339338575884"/>
 
 ### Profile Views
  <img
