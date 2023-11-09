@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [coming soon!](coming soon!)
 
-- 💬 Ask me about **Flutter/dart, discord.py!**
+- 💬 Ask me about **Flutter/dart, discord.py!!**
 
 - 📫 How to reach me **armaan33000@gmail.com**
 
