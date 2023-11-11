@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/0armaan025" target="blank"><img src="https://img.shields.io/twitter/follow/0armaan025?logo=twitter&style=for-the-badge" alt="0armaan025" /></a> </p>
 
-- 🔭 I’m currently working on **learning**
+- 🔭 I’m currently working on **learning.**
 
 - 🌱 I’m currently learning **Flutter, Flask, and other skills!**
 
