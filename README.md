@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter, Flask, and other skills!**
 
-- 👯 I’m looking to collaborate on **hackathons**
+- 👯 I’m looking to collaborate on **hackathons.**
 
 - 👨‍💻 All of my projects are available at [coming soon!](coming soon!)
 
