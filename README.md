@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [coming soon!](coming soon!)
 
-- ⚡ Fun fact **I like M.U.N(s)**
+- ⚡ Fun fact **I like M.U.N(s)**, I hope you like them too :D
 
 <h3 align="left">Connect with me.:</h3>
 <p align="left">
