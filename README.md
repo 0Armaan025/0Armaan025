@@ -48,6 +48,8 @@
 <a href="https://discord.gg/https://discord.com/users/993431339338575884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/993431339338575884" height="30" width="40" /></a>
 </p>
 
+https://discord.c99.nl/widget/theme-3/993431339338575884.png
+
 ## Stats powered by **Quine**
 
 [![0Armaan025's GitHub | Stats](https://stats.quine.sh/0Armaan025/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=0Armaan025)
