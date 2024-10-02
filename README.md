@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Armaan</h1>.
+<h1 align="center">Hi 👋, I'm Armaan</h1>
 <h3 align="center">A human who loves Coding, Pokemon, Chess and M.U.N(s)</h3>
 
 
