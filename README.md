@@ -21,5 +21,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=0Armaan025&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=0Armaan025)](https://git.io/streak-stats)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=0Armaan025&icon=6&color=6)](https://visitcount.itsvg.in)
