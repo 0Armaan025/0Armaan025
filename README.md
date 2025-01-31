@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on code-leveling (NextJS website and VS code extension)<br>👯 I’m looking to collaborate on all sorts of projects.<br>🤝 I’m looking for help with assembly or OS dev and .... Friends :(<br>🌱 I’m currently trying to learn more about backend.<br>💬 Ask me about Flutter, NextJS or hackathons!<br>⚡ Fun fact: I'm bored rn, so hit me up!
+🔭 I’m currently working on code-leveling (NextJS website and VS code extension)<br>👯 I’m looking to collaborate on all sorts of projects.<br>🤝 I’m looking for help with assembly or OS dev and .... Friends :(<br>🌱 I’m currently trying to learn more about backend.<br>💬 Ask me about Flutter, NextJS or hackathons!<br>⚡ Fun fact: I'm bored rn, so pwease msg me, im alone :(
 
 
 ## 🌐 Socials:
