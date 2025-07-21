@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on studying, it's important NOT to be left behind academically as well...<br>👯 I’m looking to collaborate on all sorts of projects, only if I have free time or in vacations.<br>🤝 I’m looking for help with just a bit of cpp ig, im starting to like low level stuff but with the knowledge I currently have, I have no scope of going far, and .... Friends :(<br>🌱 I’m currently trying to learn more about how machines actually work, if I get time, that is.<br>💬 Ask me about Flutter, NextJS or hackathons (been a while)!<br>⚡ Fun fact: I'm bored :]
+🔭 I’m currently working on studying, it's important NOT to be left behind academically as well...<br>👯 I’m looking to collaborate on all sorts of projects, only if I have free time or in vacations.<br>🤝 I’m looking for help with just a bit of cpp ig, im starting to like low level stuff but with the .knowledge I currently have, I have no scope of going far, and .... Friends :(<br>🌱 I’m currently trying to learn more about how machines actually work, if I get time, that is.<br>💬 Ask me about Flutter, NextJS or hackathons (been a while)!<br>⚡ Fun fact: I'm bored :]
 <br/> im waiting for my own comeback lol, I mean it's soon, it's near :D, MAYBE
 
 ## 🌐 Socials:
